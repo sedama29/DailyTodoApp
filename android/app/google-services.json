@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83981288140",
+    "project_id": "dailytodoapp-614ea",
+    "storage_bucket": "dailytodoapp-614ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83981288140:android:684bce6b2569c0cbbef869",
+        "android_client_info": {
+          "package_name": "dailt.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83981288140-9qlstpvburh70jpvbjm0j8n7bsbkhe37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dailt.todoapp",
+            "certificate_hash": "3fcb2fabf3528653d9b0e9aa856cf4443c6f76db"
+          }
+        },
+        {
+          "client_id": "83981288140-b0nfip0e5un8ih2f2g2vo7nlaemd2bh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADuNIm7VrsawQ-k26jMJrMcwfnaXv7HWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83981288140-b0nfip0e5un8ih2f2g2vo7nlaemd2bh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
